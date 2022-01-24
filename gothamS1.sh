@@ -17,8 +17,8 @@ season_1() {
 }
 
 season_2() {
-  wget "http://d9.o2tv.org/Gotham/Season%2002/Gotham%20-%20S02E01%20(TvShows4Mobile.Com).mp4"
-  wget "http://d9.o2tv.org/Gotham/Season%2002/Gotham%20-%20S02E02%20(TvShows4Mobile.Com).mp4"
+  wget "http://d9.o2tv.org/Gotham/Season%2002/Gotham%20-%20S02E01%20(O2TvSeries.Com).mp4"
+  wget "http://d9.o2tv.org/Gotham/Season%2002/Gotham%20-%20S02E02%20(O2TvSeries.Com).mp4"
   wget "http://d9.o2tv.org/Gotham/Season%2002/Gotham%20-%20S02E03%20(TvShows4Mobile.Com).mp4"
   wget "http://d9.o2tv.org/Gotham/Season%2002/Gotham%20-%20S02E04%20(TvShows4Mobile.Com).mp4"
   wget "http://d9.o2tv.org/Gotham/Season%2002/Gotham%20-%20S02E05%20(TvShows4Mobile.Com).mp4"
